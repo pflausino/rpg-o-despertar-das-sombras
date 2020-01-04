@@ -1,6 +1,8 @@
 # RPG - O Despertar Das Sombras
 Repositorio para organizar informações sobre a campanha de rpg, o despertar das sombras
 
+![alt text](https://github.com/pflausino/rpg-o-despertar-das-sombras/blob/master/assets/Map_Full1_Final.jpg "Log")
+
 ## Introdução
 
 >Em um Continente Vasto e cheio de recursos vivem os moradores de Motmodam
@@ -30,3 +32,19 @@ montanhas e grandes cidades
 
 _23 Carta do Mensageiro Malar a ao Grande deus Tyr, ano 9673 Pôs Conjunção das
 Esferas_
+
+
+
+## Cidades
+
+### Fronteiriça
+
+
+
+![alt text](https://cdnb.artstation.com/p/marketplace/presentation_assets/000/120/577/large/file.jpg?1554224764 "Log")
+
+Fronteiriça é uma cidade unica, nem pequena nem grande. Apesar do seu porte mediano é um local de intensa circulação de pessoas
+devido a sua localização como um territorio de divisa de reinos.
+
+![alt text](https://github.com/pflausino/rpg-o-despertar-das-sombras/blob/master/assets/Map_Start.png)
+
